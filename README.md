@@ -1,9 +1,3 @@
-<h1 align="center">Hi 👋, I'm Abdullah Bootwala</h1>
-
-- 👨‍💻 All of my projects are available at [https://github.com/Abd24205](https://github.com/Abd24205)
-
-- 📫 How to reach me **abdullahboot110@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://devfolio.co/@abdullahboot110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://devfolio.co/@abdullahboot110" height="30" width="40" /></a>
@@ -22,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdullah-bootwala" target="_blank">
+  <a href="https://www.linkedin.com/in/abdullah-bootwala-33a065286/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Open%20To%20Work-Data%20Science-2ea44f?style=for-the-badge" />
