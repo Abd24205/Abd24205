@@ -12,12 +12,12 @@
 <h3 align="center">Data Scientist · Electronics & Telecommunications Engineer</h3>
 
 <p align="center">
-  B.E. EXTC · TSEC, Mumbai · Batch 2026 · CGPA 8.41
+  EXTC · TSEC, Mumbai · Batch 2026 · CGPA 8.41
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdullah-bootwala-33a065286/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://www.linkedin.com/in/abdullah-bootwala-33a065286/" />
   </a>
   <img src="https://img.shields.io/badge/Open%20To%20Work-Data%20Science-2ea44f?style=for-the-badge" />
 </p>
