@@ -53,7 +53,15 @@ Comfortable working across the full DS stack — from raw data ingestion and cle
 - Tata / Forage GenAI Data Analytics
 
 ---
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abd24205&theme=default&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abd24205&layout=compact&hide_border=true&langs_count=6" height="150"/>
+</p>
 ## 📊 GitHub Stats
 
 <p align="center">
