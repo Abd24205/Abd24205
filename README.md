@@ -1,75 +1,62 @@
-<h1 align="center">Hi, I'm Abdullah Bootwala 👋</h1>
+<h1 align="center">Hi 👋, I'm Abdullah Bootwala</h1>
 
 <h3 align="center">
 Data Scientist • Data Analyst • Electronics & Telecommunications Engineer
 </h3>
 
 <p align="center">
-Building data-driven solutions using Machine Learning, SQL, Python & Big Data
+Building data-driven solutions using Machine Learning, Python, SQL & Big Data
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/abdullah-bootwala-33a065286/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://www.linkedin.com/in/abdullah-bootwala-33a065286/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:abdullahboot110@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<img src="https://komarev.com/ghpvc/?username=Abd24205&style=for-the-badge">
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I'm a recent Electronics & Telecommunications Engineering graduate from
-**Thadomal Shahani Engineering College (Mumbai)** with a passion for
-Machine Learning, Data Science and Analytics.
+I'm a recent **Electronics & Telecommunications Engineering** graduate from **Thadomal Shahani Engineering College (Mumbai)** with a strong interest in **Data Science, Machine Learning, and Analytics**.
 
-I enjoy solving business problems through data by building:
+I enjoy solving real-world business problems by building:
 
-- Machine Learning models
-- End-to-end analytics pipelines
-- Data dashboards
-- Automation workflows
-- AI-powered applications
+- 🤖 Machine Learning models
+- 📊 Data Analytics dashboards
+- ⚡ End-to-end data pipelines
+- 🧹 Data cleaning & automation workflows
+- 💡 AI-powered applications
 
-Currently exploring **LLMs, Agentic AI, Big Data, and MLOps.**
+I'm currently exploring **LLMs, Agentic AI, Big Data, and MLOps**.
 
-## 🛠 Tech Stack
+---
 
-**Languages**
+# 🛠 Tech Stack
 
+### Languages
 `Python` `SQL`
 
-**Data Science**
+### Data Science & Machine Learning
+`Pandas` `NumPy` `Scikit-learn` `XGBoost` `PySpark`
 
-`Pandas`
-`NumPy`
-`Scikit-learn`
-`XGBoost`
-`PySpark`
+### Data Visualization
+`Power BI` `Matplotlib` `Streamlit`
 
-**Visualization**
+### Tools
+`Git` `GitHub` `Jupyter Notebook` `VS Code`
 
-`Power BI`
-`Matplotlib`
-`Streamlit`
+---
 
-**Tools**
-
-`Git`
-`GitHub`
-`Jupyter`
-`VS Code`
-
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 ### 💳 Credit Card Fraud Analytics & Decision Support System
 
-Machine learning system using Logistic Regression and XGBoost to detect fraudulent transactions and assist analyst decision-making.
+Developed fraud detection models using **Logistic Regression** and **XGBoost**, improving **PR-AUC from 0.671 to 0.880** while building a decision-support workflow for fraud analysts.
 
 **Tech:** Python • XGBoost • Scikit-learn
 
@@ -77,31 +64,35 @@ Machine learning system using Logistic Regression and XGBoost to detect fraudule
 
 ### 🛒 E-Commerce Customer Churn Prediction Pipeline
 
-End-to-end ML pipeline on 541K+ transactions using PySpark, Spark SQL and Airflow.
+Built an end-to-end machine learning pipeline on **541,909 e-commerce transactions** using **PySpark**, **Spark SQL**, **Apache Airflow**, and **Streamlit**.
 
-**Tech:** PySpark • Airflow • Streamlit
+**Tech:** PySpark • Spark SQL • Airflow • Streamlit
 
 ---
 
-### 📊 Retail Sales & Inventory Analytics Dashboard
+### 📊 Retail Sales & Inventory Analytics Dashboard *(In Progress)*
 
-Business Intelligence dashboard built using SQL, Power BI and Python for sales and inventory analytics.
+Building an interactive analytics dashboard using **SQL**, **Python**, **Excel**, and **Power BI** to analyze sales, inventory, profitability, and customer trends.
 
-**Tech:** SQL • Power BI • Python
+**Tech:** SQL • Python • Power BI • Excel
 
-## 📈 GitHub Stats
+---
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abd24205&show_icons=true&theme=transparent" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abd24205&layout=compact&theme=transparent" />
-</p>
+# 🎯 Current Focus
 
-## 🤝 Let's Connect
+- 🤖 Building end-to-end Machine Learning solutions
+- 📊 Developing Data Analytics dashboards with SQL & Power BI
+- ⚡ Exploring LLMs, Agentic AI, and MLOps
+- 🚀 Open to Data Science and Data Analyst opportunities
 
-📧 **Email:** abdullahboot110@gmail.com
+---
 
-💼 **LinkedIn**
-https://linkedin.com/in/abdullah-bootwala-33a065286
+# 🤝 Let's Connect
 
-⭐ Feel free to explore my repositories and connect!
+📧 **Email:**  
+**abdullahboot110@gmail.com**
 
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/abdullah-bootwala-33a065286
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect.
