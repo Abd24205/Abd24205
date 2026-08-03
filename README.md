@@ -1,55 +1,110 @@
+<h1 align="center">Hi, I'm Abdullah Bootwala 👋</h1>
 
-
-<h1 align="center">Abdullah Bootwala</h1>
-<h3 align="center">Data Scientist · Electronics & Telecommunications Engineer</h3>
+<h3 align="center">
+Data Scientist • Data Analyst • Electronics & Telecommunications Engineer
+</h3>
 
 <p align="center">
-  EXTC · TSEC, Mumbai · Batch 2026 · CGPA 8.41
+Building data-driven solutions using Machine Learning, SQL, Python & Big Data
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdullah-bootwala-33a065286/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Open%20To%20Work-Data%20Science-2ea44f?style=for-the-badge" />
+<a href="https://www.linkedin.com/in/abdullah-bootwala-33a065286/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:abdullahboot110@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Abd24205&style=for-the-badge">
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Data Scientist with a B.E. in Electronics & Telecommunications Engineering from TSEC, Mumbai. I build end-to-end data pipelines, perform large-scale exploratory analysis, and extract actionable business insights from real-world datasets.
+I'm a recent Electronics & Telecommunications Engineering graduate from
+**Thadomal Shahani Engineering College (Mumbai)** with a passion for
+Machine Learning, Data Science and Analytics.
 
-Comfortable working across the full DS stack — from raw data ingestion and cleaning to machine learning, SQL analytics, and visualisation.
+I enjoy solving business problems through data by building:
+
+- Machine Learning models
+- End-to-end analytics pipelines
+- Data dashboards
+- Automation workflows
+- AI-powered applications
+
+Currently exploring **LLMs, Agentic AI, Big Data, and MLOps.**
+
+## 🛠 Tech Stack
+
+**Languages**
+
+`Python` `SQL`
+
+**Data Science**
+
+`Pandas`
+`NumPy`
+`Scikit-learn`
+`XGBoost`
+`PySpark`
+
+**Visualization**
+
+`Power BI`
+`Matplotlib`
+`Streamlit`
+
+**Tools**
+
+`Git`
+`GitHub`
+`Jupyter`
+`VS Code`
+
+## 🚀 Featured Projects
+
+### 💳 Credit Card Fraud Analytics & Decision Support System
+
+Machine learning system using Logistic Regression and XGBoost to detect fraudulent transactions and assist analyst decision-making.
+
+**Tech:** Python • XGBoost • Scikit-learn
 
 ---
 
-## 🚀 Projects
+### 🛒 E-Commerce Customer Churn Prediction Pipeline
 
-### 📦 E-commerce Sales Analysis with PySpark
-> Big Data pipeline on 541,909 real transactions — EDA, RFM segmentation, Spark SQL
+End-to-end ML pipeline on 541K+ transactions using PySpark, Spark SQL and Airflow.
 
-- **Stack:** PySpark 4.1 · Java 17 · Jupyter · Matplotlib · Seaborn
-- **What I built:** Distributed data cleaning pipeline, feature engineering, RFM customer segmentation, month-over-month revenue analysis using window functions
-- **Key insight:** ~1,300 Champion customers drove nearly £7M in revenue — majority of total business value
-- 🔗 [View Repository](https://github.com/Abd24205/ecommerce-pyspark-analysis)
+**Tech:** PySpark • Airflow • Streamlit
 
 ---
 
-## 🛠️ Skills
+### 📊 Retail Sales & Inventory Analytics Dashboard
 
-**Data Science & Analytics**
-`Python` `PySpark` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn` `SQL` `Spark SQL`
+Business Intelligence dashboard built using SQL, Power BI and Python for sales and inventory analytics.
 
-**Tools & Platforms**
-`Jupyter` `Git` `GitHub` `Kaggle` `Oracle OCI` `Figma`
+**Tech:** SQL • Power BI • Python
 
----
+## 📈 GitHub Stats
 
-## 📜 Certifications
+<p align="center">
 
-- Oracle OCI AI Foundations
-- IIRS Geodata Processing using Python
-- Tata / Forage GenAI Data Analytics
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abd24205&show_icons=true"/>
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abd24205&layout=compact"/>
+
+</p>
+
+## 🤝 Let's Connect
+
+📧 **Email:** abdullahboot110@gmail.com
+
+💼 **LinkedIn**
+https://linkedin.com/in/abdullah-bootwala-33a065286
+
+⭐ Feel free to explore my repositories and connect!
+
