@@ -92,8 +92,8 @@ Business Intelligence dashboard built using SQL, Power BI and Python for sales a
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abd24205&show_icons=true&theme=github_dark" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abd24205&layout=compact&theme=github_dark" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abd24205&show_icons=true&theme=transparent" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abd24205&layout=compact&theme=transparent" />
 </p>
 
 ## 🤝 Let's Connect
